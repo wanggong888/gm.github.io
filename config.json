@@ -3,12 +3,12 @@
     "subTitle":"慢慢的走这一天",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last"
-    "displayTitle":"Meekdai",
-"homeUrl":"http://xiaomai.icu",
+"displayTitle":"Meekdai",
+"homeUrl":"http://blog.meekdai.com",
 "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
-"email":"xiaomai@163.com",
-"startSite":"03/15/2019",
-"filingNum":"冀ICP备2021005345号",
+"email":"meekdai@163.com",
+"startSite":"02/16/2015",
+"filingNum":"浙ICP备20023628号",
 "onePageListNum":15,
 "singlePage":["about"],
 "iconList":{"music":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"},
@@ -33,5 +33,4 @@
 "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
 "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
 "needComment":0,
-    
 }
