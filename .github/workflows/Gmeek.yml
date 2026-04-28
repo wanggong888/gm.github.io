@@ -87,4 +87,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
+        
        
