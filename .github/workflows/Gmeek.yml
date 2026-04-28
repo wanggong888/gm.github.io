@@ -19,7 +19,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Get config.json
         run: |
@@ -87,6 +87,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
-        
-       
